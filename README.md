@@ -1,2 +1,3 @@
 # hello-world
-yo learning
+yo learning man
+ a bit about myself
